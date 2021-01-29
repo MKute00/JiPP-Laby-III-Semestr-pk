@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/JiPP Laby III Semestr pk/LAB_5/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Lab5.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab5.dir\\src\\main.cpp.obj -c \"D:\\JiPP Laby III Semestr pk\\LAB_5\\src\\main.cpp\"",
+  "file": "D:/JiPP Laby III Semestr pk/LAB_5/src/main.cpp"
+},
+{
+  "directory": "D:/JiPP Laby III Semestr pk/LAB_5/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Lab5.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab5.dir\\src\\macierz.cpp.obj -c \"D:\\JiPP Laby III Semestr pk\\LAB_5\\src\\macierz.cpp\"",
+  "file": "D:/JiPP Laby III Semestr pk/LAB_5/src/macierz.cpp"
+}
+]

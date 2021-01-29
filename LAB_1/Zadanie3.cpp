@@ -6,15 +6,15 @@ using namespace std;
 
 int main()
 {
-    float masa_ciała, wzrost, BMI;
+    float masa_ciala, wzrost, BMI;
 
     cout << "Podaj mase ciala (kg):\n";
-    cin >> masa_ciała;
+    cin >> masa_ciala;
 
     cout << "\nPodaj wzrost (m):\n";
     cin >> wzrost;
 
-    BMI = masa_ciała / (wzrost * wzrost);
+    BMI = masa_ciala / (wzrost * wzrost);
     if (BMI < 16) {
         cout << "Wyglodzenie";
     }

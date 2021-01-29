@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libs/libs.h
+iostream
+-
+string
+-
+vector
+-
+time.h
+-
+fstream
+-
+
+D:/JiPP Laby III Semestr pk/LAB_4/include/lab4/macierz.h
+../libs/libs.h
+D:/JiPP Laby III Semestr pk/LAB_4/include/libs/libs.h
+
+D:/JiPP Laby III Semestr pk/LAB_4/libs/libs.h
+iostream
+-
+string
+-
+vector
+-
+time.h
+-
+fstream
+-
+
+D:/JiPP Laby III Semestr pk/LAB_4/src/macierz.cpp
+../include/lab4/macierz.h
+D:/JiPP Laby III Semestr pk/LAB_4/include/lab4/macierz.h
+
+D:/JiPP Laby III Semestr pk/LAB_4/src/main.cpp
+../include/lab4/macierz.h
+D:/JiPP Laby III Semestr pk/LAB_4/include/lab4/macierz.h
+../libs/libs.h
+D:/JiPP Laby III Semestr pk/LAB_4/libs/libs.h
+
